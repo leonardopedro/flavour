@@ -1,0 +1,12 @@
+<map id="BGLmodels::BGL" name="BGLmodels::BGL">
+<area shape="rect" id="node2" href="$classModel.html" title="Abstract class for a model. " alt="" coords="767,31,824,57"/>
+<area shape="rect" id="node4" href="$classwidthcalc.html" title="this class calculates decay widths of one lepton to 3 leptons " alt="" coords="757,107,834,133"/>
+<area shape="rect" id="node5" href="$classstd_1_1multivector.html" title="std::multivector\&lt; ex, 7 \&gt;" alt="" coords="451,107,616,133"/>
+<area shape="rect" id="node7" href="$classstd_1_1multivector.html" title="std::multivector\&lt; ex, 6 \&gt;" alt="" coords="451,56,616,83"/>
+<area shape="rect" id="node8" href="$classBGLmodels_1_1calcuBmumu.html" title="calculus of the constraints coming from the B&#45;&gt;mu mu decay " alt="" coords="708,208,883,235"/>
+<area shape="rect" id="node9" href="$classcalcu.html" title="Base class to do the calculus of a constraint to the model. " alt="" coords="507,157,560,184"/>
+<area shape="rect" id="node10" href="$classBGLmodels_1_1Mixes.html" title="definition of the couplings for the different BGL models " alt="" coords="467,353,600,380"/>
+<area shape="rect" id="node11" href="$classstd_1_1multivector.html" title="std::multivector\&lt; Matrix, 2 \&gt;" alt="" coords="189,368,376,395"/>
+<area shape="rect" id="node13" href="$classBGLmodels_1_1Fermion.html" title="a fermion properties " alt="" coords="210,247,355,273"/>
+<area shape="rect" id="node14" href="$classBGLmodels_1_1Meson.html" title="a meson properties " alt="" coords="465,208,602,235"/>
+</map>

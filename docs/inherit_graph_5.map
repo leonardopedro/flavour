@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcalcu.html" title="Base class to do the calculus of a constraint to the model. " alt="" coords="5,107,59,133"/>
+<area shape="rect" id="node2" href="$classBGLmodels_1_1calcuBmumu.html" title="calculus of the constraints coming from the B&#45;&gt;mu mu decay " alt="" coords="121,5,296,32"/>
+<area shape="rect" id="node3" href="$classBGLmodels_1_1calcubtosgamma2.html" title="calculus of the constraints coming from the b&#45;&gt;s gamma decay " alt="" coords="107,56,311,83"/>
+<area shape="rect" id="node4" href="$classBGLmodels_1_1calcuOblique.html" title="calculus of the constraints coming from the oblique parameters " alt="" coords="122,107,295,133"/>
+<area shape="rect" id="node5" href="$classcalcuba.html" title="class to do the calculus of a constraint based on a GiNaC compiled expression " alt="" coords="175,157,242,184"/>
+<area shape="rect" id="node6" href="$classcalcuex.html" title="class to do the calculus of a constraint based on a GiNaC symbolic expression " alt="" coords="175,208,242,235"/>
+</map>

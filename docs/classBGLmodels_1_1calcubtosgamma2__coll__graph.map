@@ -1,0 +1,5 @@
+<map id="BGLmodels::calcubtosgamma2" name="BGLmodels::calcubtosgamma2">
+<area shape="rect" id="node2" href="$classcalcu.html" title="Base class to do the calculus of a constraint to the model. " alt="" coords="47,81,101,108"/>
+<area shape="rect" id="node3" href="$classgauss2obs.html" title="the same as gaussobs but with a different initializer, such that the uncertainty sigma is absolute ..." alt="" coords="125,81,210,108"/>
+<area shape="rect" id="node4" href="$classobservable.html" title="A base class representing an experimental measure. " alt="" coords="125,5,210,32"/>
+</map>

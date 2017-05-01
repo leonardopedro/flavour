@@ -1,0 +1,7 @@
+\form#0:$\vec p$
+\form#1:$\vec O_{\mathrm{Th}}(\vec p)$
+\form#2:$\vec O_{\mathrm{Exp}}$
+\form#3:$\mathcal L(\vec O_{\mathrm{Exp}}|\vec O_{\mathrm{Th}}(\vec p))$
+\form#4:$\vec O_{\mathrm{\mathrm{Exp}}}$
+\form#5:$\chi^2\equiv -2\log \mathcal L$
+\form#6:$(\frac{x-::value}{::step})^2$

@@ -1,0 +1,9 @@
+<map id="BGLmodels::Boson::couplingR" name="BGLmodels::Boson::couplingR">
+<area shape="rect" id="node2" href="$classBGLmodels_1_1BGL.html#a6f64c34cf00de87594af365291d3dde1" title="BGLmodels::BGL::BGL" alt="" coords="581,58,739,85"/>
+<area shape="rect" id="node3" href="$classBGLmodels_1_1Boson.html#ac13d875b5ff790fe4ceb48ba8f71659a" title="BGLmodels::Boson::coupling" alt="" coords="279,33,470,60"/>
+<area shape="rect" id="node4" href="$classBGLmodels_1_1Boson.html#a8b4bf990bcd0168f07956a34dee40a26" title="BGLmodels::Boson::couplingdaggerL" alt="" coords="256,84,493,110"/>
+<area shape="rect" id="node6" href="$classBGLmodels_1_1Boson.html#a67161e54aa6e090d766fcff97a41644e" title="BGLmodels::Boson::couplingdaggerR" alt="" coords="255,134,495,161"/>
+<area shape="rect" id="node7" href="$classBGLmodels_1_1BGL.html#a54bb4716fff7de90c7a09f55c3b84fc7" title="BGLmodels::BGL::fermiontomeson" alt="" coords="262,185,487,212"/>
+<area shape="rect" id="node8" href="$classBGLmodels_1_1BGL.html#ad9a25d4ef11df0e731517725e6fd9f59" title="BGLmodels::BGL::mesondw" alt="" coords="281,236,469,262"/>
+<area shape="rect" id="node5" href="$classBGLmodels_1_1BGL.html#acf832c3d6b60e6be368d3e3527253e10" title="BGLmodels::BGL::CHdecaycoupling" alt="" coords="543,121,777,148"/>
+</map>

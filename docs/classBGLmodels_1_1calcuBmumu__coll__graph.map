@@ -1,0 +1,7 @@
+<map id="BGLmodels::calcuBmumu" name="BGLmodels::calcuBmumu">
+<area shape="rect" id="node2" href="$classcalcu.html" title="Base class to do the calculus of a constraint to the model. " alt="" coords="5,245,59,272"/>
+<area shape="rect" id="node3" href="$classBGLmodels_1_1Mixes.html" title="definition of the couplings for the different BGL models " alt="" coords="83,245,216,272"/>
+<area shape="rect" id="node4" href="$classstd_1_1multivector.html" title="std::multivector\&lt; Matrix, 2 \&gt;" alt="" coords="56,96,243,123"/>
+<area shape="rect" id="node6" href="$classBGLmodels_1_1Fermion.html" title="a fermion properties " alt="" coords="277,96,422,123"/>
+<area shape="rect" id="node7" href="$classBGLmodels_1_1Meson.html" title="a meson properties " alt="" coords="309,245,446,272"/>
+</map>

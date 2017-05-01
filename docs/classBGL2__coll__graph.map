@@ -1,0 +1,7 @@
+<map id="BGL2" name="BGL2">
+<area shape="rect" id="node2" href="$classModel.html" title="Abstract class for a model. " alt="" coords="63,244,121,271"/>
+<area shape="rect" id="node4" href="$classcalcuex.html" title="class to do the calculus of a constraint based on a GiNaC symbolic expression " alt="" coords="161,244,228,271"/>
+<area shape="rect" id="node5" href="$classcalcu.html" title="Base class to do the calculus of a constraint to the model. " alt="" coords="168,96,221,123"/>
+<area shape="rect" id="node6" href="$classBGLmodels_1_1Mixes.html" title="definition of the couplings for the different BGL models " alt="" coords="257,244,391,271"/>
+<area shape="rect" id="node7" href="$classstd_1_1multivector.html" title="std::multivector\&lt; Matrix, 2 \&gt;" alt="" coords="245,96,432,123"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BGLmodels::BGL::CHdecaycoupling" name="BGLmodels::BGL::CHdecaycoupling">
+<area shape="rect" id="node2" href="$classBGLmodels_1_1Boson.html#a8b4bf990bcd0168f07956a34dee40a26" title="BGLmodels::Boson::couplingdaggerL" alt="" coords="289,5,527,32"/>
+<area shape="rect" id="node5" href="$classBGLmodels_1_1Boson.html#a67161e54aa6e090d766fcff97a41644e" title="BGLmodels::Boson::couplingdaggerR" alt="" coords="288,56,528,83"/>
+<area shape="rect" id="node3" href="$classBGLmodels_1_1Boson.html#ac3a5ceab142dddb61ba6ef078b298675" title="BGLmodels::Boson::couplingR" alt="" coords="576,5,777,32"/>
+<area shape="rect" id="node4" href="$classBGLmodels_1_1Boson.html#a2f6c8033bedda6e5a7261a893f8f66a1" title="BGLmodels::Boson::couplingL" alt="" coords="577,56,776,83"/>
+</map>
